@@ -1,2 +1,0 @@
-Norberto Andrango
-Rafael Diaz
