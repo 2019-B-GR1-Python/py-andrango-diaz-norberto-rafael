@@ -1,0 +1,1 @@
+[{"_Ciudad__id_ciudad": "23", "_Ciudad__nombre_ciudad": "Guayaquil", "_Ciudad__poblacion": 53, "__class_name__": "Ciudad"}]
